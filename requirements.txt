@@ -7,4 +7,4 @@ tiktoken==0.4.0
 sentence-transformers==2.2.2
 pip install faiss-cpu --no-depsnumpy==1.23.5
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==1.13.1+cpu
+torch==2.1.2 --no-cache-dir
